@@ -3,7 +3,7 @@ title: "今年の GitBucket との関わり"
 emoji: "👋"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ['GitBucket', 'Scala']
-published: false
+published: true
 ---
 ## 今年の GitBucket との関わりについてまとめますがその前に
 ### gitbucket-plugins.github.io は wiki に移行し閉鎖予定だそうです
