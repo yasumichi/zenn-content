@@ -132,5 +132,5 @@ issue に設定した情報を元にリポジトリのサイドメニュー `Fle
 ## 今後やりたいこと
 
 - GitBucket Markdown Enhanced Plugin の機能追加
-- [gitbucket-commitgraphs-plugin](https://github.com/yoshiyoshifujii/gitbucket-commitgraphs-plugin) が、インターネットに接続できない環境だとグラフが表示されないので修正したい。
+- [gitbucket-commitgraphs-plugin](https://github.com/yoshiyoshifujii/gitbucket-commitgraphs-plugin) が、インターネットに接続できない環境だとグラフが表示されないので修正したい。 -> [後日談](https://zenn.dev/yasumichi/articles/50c8e7d5360aca)
 - GitBucket 本体に同梱された JavaScript 等のライブラリにかなり古いものがあるので最新化したい。
