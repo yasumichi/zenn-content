@@ -69,6 +69,7 @@ published: true
 - [GitBucket Markdown Enhanced Plugin で KaTeX の記法を Markdown Preview Enhanced に合わせました #Scala - Qiita](https://qiita.com/yasumichi/items/c270c701ed270f622a76)
 - [GitBucket Markdown Enhanced Plugin 独自のインライン記法を表に入れると例外が発生し描画ができない問題を解消しました #Scala - Qiita](https://qiita.com/yasumichi/items/a24742d5a129732fb0ea)
 - [GitBucket Markdown Enhanced Plugin でリンクの解決を見直しました #Scala - Qiita](https://qiita.com/yasumichi/items/891578c48573de80b412)
+- [GitBucket Markdown Enhanced Plugin に vega および vega-lite サポートを追加しました(とりまJSONのみ)](https://qiita.com/yasumichi/items/fe740aeeeafd1e25a2a7)
 :::
 
 ## GitBucket Flexible Gantt Plugin
